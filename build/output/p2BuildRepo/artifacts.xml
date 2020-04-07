@@ -1,0 +1,465 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?artifactRepository version='1.1.0'?>
+<repository name='file:/C:/Users/krueger_m/git/team-explorer-everywhere/build/output/p2BuildRepo - artifacts' type='org.eclipse.equinox.p2.artifact.repository.simpleRepository' version='1.0.0'>
+  <properties size='2'>
+    <property name='p2.timestamp' value='1586278622276'/>
+    <property name='p2.compressed' value='false'/>
+  </properties>
+  <mappings size='3'>
+    <rule filter='(&amp; (classifier=osgi.bundle))' output='${repoUrl}/plugins/${id}_${version}.jar'/>
+    <rule filter='(&amp; (classifier=binary))' output='${repoUrl}/binary/${id}_${version}'/>
+    <rule filter='(&amp; (classifier=org.eclipse.update.feature))' output='${repoUrl}/features/${id}_${version}.jar'/>
+  </mappings>
+  <artifacts size='75'>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.pid.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='2097'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.jni.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='2245'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.workitempolicy.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='2198'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.nl1' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='28621'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.jni' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='1192838'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.jni.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='7187'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.teambuild' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='510293'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.pid.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='856'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.util.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='3293'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.ui.egit.nl1' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='15395'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.help' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='13600'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.ws.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='1989'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.workitemquerypolicy' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='13740'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.httpclient.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='850'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.logging' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='401453'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.workitemquerypolicy.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='8004'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.workitemquerypolicy.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='2565'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.teambuild.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='68956'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.forbiddenpatterns.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='2405'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='8241'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.httpclient.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='2036'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.teambuild.egit.nl1' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='11448'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.httpclient' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='8192'/>
+        <property name='download.size' value='472127'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.clc' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='8192'/>
+        <property name='download.size' value='417236'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.vcexplorer.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4706'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.ui.egit.nlz' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4025'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.checkforcomments.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='5800'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.logging.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='844'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='11195010'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='244849'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='7076'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='61151'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.ui.nlz' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='14172'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.ui.nl1' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='71271'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='37651'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.ws.runtime' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='75572'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.vcexplorer' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='158175'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='170891'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.teambuild.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='14116'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.microsoft.tfs.client.eclipse.nlz.feature' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='download.contentType' value='application/zip'/>
+        <property name='download.size' value='8612'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.forbiddenpatterns' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='13088'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.ui' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='393216'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.ws.runtime.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='2523'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.pid' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='2384'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.build.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='3452'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.checkforcomments.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='2215'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.vcexplorer.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='19702'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.teambuild.egit.nlz' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='3571'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.console' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='10078'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.microsoft.tfs.client.clc.feature' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='download.contentType' value='application/zip'/>
+        <property name='download.size' value='572'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='1703'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.logging.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='1970'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.help.nlz' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='10442'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.build.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='13631'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.ws.runtime.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='7062'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.util' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='173324'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.forbiddenpatterns.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='7138'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.microsoft.tfs.client.eclipse.feature' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='download.contentType' value='application/zip'/>
+        <property name='download.size' value='15492'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.ws' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4204088'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='3879176'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.nlz' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='6159'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.checkforcomments' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4202'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.ui.egit' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='101745'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.workitempolicy.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='5878'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='38597'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='1818348'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.teambuild.egit' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='44904'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.build' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='38786'/>
+      </properties>
+    </artifact>
+    <artifact classifier='org.eclipse.update.feature' id='com.microsoft.tfs.client.eclipse.nl1.feature' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='download.contentType' value='application/zip'/>
+        <property name='download.size' value='8613'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.common.ui.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='284270'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.util.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='13087'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.core.ws.nlz' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='848'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.nl1' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4162'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.checkinpolicies.workitempolicy' version='14.134.0.202004071854'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='4515'/>
+      </properties>
+    </artifact>
+    <artifact classifier='osgi.bundle' id='com.microsoft.tfs.client.eclipse.help.nl1' version='14.134.0.202004071856'>
+      <properties size='2'>
+        <property name='artifact.size' value='4096'/>
+        <property name='download.size' value='62973'/>
+      </properties>
+    </artifact>
+  </artifacts>
+</repository>
